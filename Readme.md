@@ -14,6 +14,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - JS front-end exam             |        --.--.2023         |  ---  |                     |                |
 | **Python Web**                  | September - December 2023 |  ---  |       not yet       |                |
 | - python web basics             |        --.--.2023         |  ---  |                     |                |
+| - python web framework          |        --.--.2023         |  ---  |                     |                |
 | **Python Full-Stack Developer** |        2023 - 2024        |  ---  |       not yet       |                |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni
