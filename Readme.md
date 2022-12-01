@@ -9,13 +9,13 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **Python Advanced**             |   January - April 2023    |  ---  |       not yet       |                |
 | - python advanced exam          |        18.02.2023         |  ---  |                     |   [advanced]   |
 | - python OOP exam               |        08.04.2023         |  ---  |                     |     [OOP]      |
-| **JS Front-End**                |     May - August 2023     |  ---  |       not yet       |                |
-| - HTML & CSS exam               |        --.--.2023         |  ---  |                     |                |
-| - JS front-end exam             |        --.--.2023         |  ---  |                     |                |
-| **Python Web**                  | September - December 2023 |  ---  |       not yet       |                |
+| **JS Front-End**                |   January - April 2023    |  ---  |       not yet       |                |
+| - HTML & CSS exam               |        19.02.2023         |  ---  |                     |                |
+| - JS front-end exam             |        09.04.2023         |  ---  |                     |                |
+| **Python Web**                  |     May - August 2023     |  ---  |       not yet       |                |
 | - python web basics             |        --.--.2023         |  ---  |                     |  [web basic]   |
 | - python web framework          |        --.--.2023         |  ---  |                     |                |
-| **Python Full-Stack Developer** |        2023 - 2024        |  ---  |       not yet       |                |
+| **Python Full-Stack Developer** |           2023            |  ---  |       not yet       |                |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni
 [fundamentals]: https://github.com/VelinIliev/python-fundamentals-softuni
@@ -30,7 +30,4 @@ Additional courses planned.
 
 | Course                 |             Period             | Grade | Certificates | GitHubRepo |
 |:-----------------------|:------------------------------:|:-----:|:------------:|:----------:|
-| **Deep Learning**      | December - January 2022 - 2023 |  ---  |     ---      |    ---     |
 | **MS SQL**             |          January 2023          |  ---  |     ---      |    ---     |
-| **Data Science**       |        waiting for date        |  ---  |     ---      |    ---     |
-| **Machine Learning**   |        waiting for date        |  ---  |     ---      |    ---     |
