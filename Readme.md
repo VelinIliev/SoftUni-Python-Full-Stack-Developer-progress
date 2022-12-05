@@ -29,11 +29,11 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 <br>
 Additional courses planned.
 
-| Course                          |        Period         | Grade | Credits | Certificates | GitHubRepo |
-|:--------------------------------|:---------------------:|:-----:|:-------:|:------------:|:----------:|
-| **MS SQL**                      |     January 2023      |  ---  |  0(9)   |     ---      |    ---     |
-| - exam                          |      12.02.2023       |  ---  |         |     ---      |    ---     |
-| **Web Applications with Flask** | February - April 2023 |  ---  |  0(9)   |     ---      |    ---     |
-| - exam                          |      23.04.2023       |  ---  |         |     ---      |    ---     |
-| **TOTAL**                       |                       |  ---  |  0(18)  |              |            |
+| Course                          |        Period         |  Grade  |  Credits  | Certificates | GitHubRepo |
+|:--------------------------------|:---------------------:|:-------:|:---------:|:------------:|:----------:|
+| **MS SQL**                      |     January 2023      |   ---   |   0(9)    |     ---      |    ---     |
+| - exam                          |      12.02.2023       |   ---   |           |     ---      |    ---     |
+| **Web Applications with Flask** | February - April 2023 |   ---   |   0(9)    |     ---      |    ---     |
+| - exam                          |      23.04.2023       |   ---   |           |     ---      |    ---     |
+| **TOTAL**                       |                       | **---** | **0(18)** |              |            |
 
