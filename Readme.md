@@ -28,6 +28,9 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 <br>
 Additional courses planned.
 
-| Course                 |             Period             | Grade | Certificates | GitHubRepo |
-|:-----------------------|:------------------------------:|:-----:|:------------:|:----------:|
-| **MS SQL**             |          January 2023          |  ---  |     ---      |    ---     |
+| Course                           |        Period         | Grade | Certificates | GitHubRepo |
+|:---------------------------------|:---------------------:|:-----:|:------------:|:----------:|
+| **MS SQL**                       |     January 2023      |  ---  |     ---      |    ---     |
+| - exam                           |      12.02.2023       |  ---  |     ---      |    ---     |
+| **Web Applications with Flask**  | February - April 2023 |  ---  |     ---      |    ---     |
+| - exam                           |      23.04.2023       |  ---  |     ---      |    ---     |
