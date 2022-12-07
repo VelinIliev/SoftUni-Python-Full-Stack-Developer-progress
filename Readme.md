@@ -10,7 +10,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - python advanced exam          |        18.02.2023         |   ---    |            |                            |   [advanced]   |
 | - python OOP exam               |        08.04.2023         |   ---    |            |                            |     [OOP]      |
 | **JS Front-End**                |   January - April 2023    | **---**  |   0(27)    |          not yet           |                |
-| - HTML & CSS exam               |        19.02.2023         |   ---    |            |                            |                |
+| - HTML & CSS exam               |        19.02.2023         |   ---    |            |                            |  [HTML & CSS]  |
 | - JS front-end exam             |        09.04.2023         |   ---    |            |                            |                |
 | **Python Web**                  |     May - August 2023     | **---**  |   0(30)    |          not yet           |                |
 | - python web basics             |        --.--.2023         |   ---    |            |                            |  [web basic]   |
@@ -22,6 +22,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 [fundamentals]: https://github.com/VelinIliev/python-fundamentals-softuni
 [advanced]: https://github.com/VelinIliev/python-advanced-softuni
 [OOP]: https://github.com/VelinIliev/python_oop_softuni
+[HTML & CSS]:https://github.com/VelinIliev/html-and-css-softuni
 [web basic]: https://github.com/VelinIliev/python_web_basics
 
 [certificate basic]:https://softuni.bg/certificates/details/140540/cdc98c99
