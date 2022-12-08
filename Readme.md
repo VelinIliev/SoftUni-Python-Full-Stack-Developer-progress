@@ -7,11 +7,11 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - mid exam                      |        23.10.2022         |   6.00   |            |                            |                |
 | - final exam                    |        04.12.2022         |   6.00   |            |                            |                |
 | **Python Advanced**             |   January - April 2023    | **---**  |   0(27)    |          not yet           |                |
-| - python advanced exam          |        18.02.2023         |   ---    |            |                            |   [advanced]   |
-| - python OOP exam               |        08.04.2023         |   ---    |            |                            |     [OOP]      |
+| - python advanced exam          |    18.02.2023 (събота)    |   ---    |            |                            |   [advanced]   |
+| - python OOP exam               |    08.04.2023 (събота)    |   ---    |            |                            |     [OOP]      |
 | **JS Front-End**                |   January - April 2023    | **---**  |   0(27)    |          not yet           |                |
-| - HTML & CSS exam               |        19.02.2023         |   ---    |            |                            |  [HTML & CSS]  |
-| - JS front-end exam             |        09.04.2023         |   ---    |            |                            |                |
+| - HTML & CSS exam               |    19.02.2023 (неделя)    |   ---    |            |                            |  [HTML & CSS]  |
+| - JS front-end exam             |    09.04.2023 (неделя)    |   ---    |            |                            |                |
 | **Python Web**                  |     May - August 2023     | **---**  |   0(30)    |          not yet           |                |
 | - python web basics             |        --.--.2023         |   ---    |            |                            |  [web basic]   |
 | - python web framework          |        --.--.2023         |   ---    |            |                            |                |
@@ -34,8 +34,8 @@ Additional courses planned.
 | Course                                |        Period         |  Grade  |  Credits  | Certificates | GitHubRepo |
 |:--------------------------------------|:---------------------:|:-------:|:---------:|:------------:|:----------:|
 | **MS SQL**                            |     January 2023      |         |   0(9)    |     ---      |    ---     |
-| - exam                                |      12.02.2023       |   ---   |           |     ---      |    ---     |
+| - exam                                |  12.02.2023 (неделя)  |   ---   |           |     ---      |    ---     |
 | **Web Applications <br/> with Flask** | February - April 2023 |         |   0(9)    |     ---      |    ---     |
-| - exam                                |      23.04.2023       |   ---   |           |     ---      |    ---     |
+| - exam                                |  23.04.2023 (неделя)  |   ---   |           |     ---      |    ---     |
 | **TOTAL**                             |                       | **---** | **0(18)** |              |            |
 
