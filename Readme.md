@@ -33,9 +33,16 @@ Additional courses planned.
 
 | Course                                |        Period         |  Grade  |  Credits  | Certificates | GitHubRepo |
 |:--------------------------------------|:---------------------:|:-------:|:---------:|:------------:|:----------:|
-| **MS SQL**                            |     January 2023      |         |   0(9)    |     ---      |    ---     |
-| - exam                                |  12.02.2023 (неделя)  |   ---   |           |     ---      |    ---     |
+| **MS SQL**                            |     January 2023      |         |   0(9)    |     ---      |  [MS SQL]  |
+| - exam                                |  12.02.2023 (неделя)  |   ---   |           |     ---      |            |
 | **Web Applications <br/> with Flask** | February - April 2023 |         |   0(9)    |     ---      |    ---     |
-| - exam                                |  23.04.2023 (неделя)  |   ---   |           |     ---      |    ---     |
-| **TOTAL**                             |                       | **---** | **0(18)** |              |            |
+| - exam                                |  23.04.2023 (неделя)  |   ---   |           |     ---      |            |
+| **Artificial Intelligence**           |                       |   ---   |   0(36)   |     ---      |    ---     |
+| - Math Concepts for Developers        |      04.06.2023       |   ---   |           |     ---      |    ---     |
+| - Data Science                        |      20.08.2023       |   ---   |           |     ---      |    ---     |
+| - Machine Learning                    |      25.11.2023       |   ---   |           |     ---      |    ---     |
+| - Deep Learning                       |      10.02.2024       |   ---   |           |     ---      |    ---     |
+| **TOTAL**                             |                       | **---** | **0(54)** |              |            |
+
+[MS SQL]: https://github.com/VelinIliev/mssql-softuni
 
