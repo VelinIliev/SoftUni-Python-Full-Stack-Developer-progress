@@ -39,7 +39,7 @@ Additional courses planned.
 | - exam                                |       12.02.2023 <br/> неделя 9:00       |   ---   |           |     ---      |            |
 | **Web Applications <br/> with Flask** | February - April 2023 <br/> start(06.02) |         |   0(9)    |     ---      |    ---     |
 | - exam                                |       23.04.2023<br/>неделя 10:00        |   ---   |           |     ---      |            |
-| **Algorithms with Python**            |             waiting for date             |   ---   |           |     ---      |            |
+| **Algorithms <br/> with Python**      |             waiting for date             |   ---   |           |     ---      |            |
 | **Artificial Intelligence**           |                                          |   ---   |   0(36)   |     ---      |    ---     |
 | - Math Concepts for Developers        |  start 10.03.2023<br/>  exam 04.06.2023  |   ---   |           |     ---      |    ---     |
 | - Data Science                        |  start 23.06.2023 <br/> exam 20.08.2023  |   ---   |           |     ---      |    ---     |
