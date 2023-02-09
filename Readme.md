@@ -37,7 +37,7 @@ Additional courses planned.
 |:--------------------------------------|:----------------------------------------:|:-------:|:---------:|:------------:|:----------:|
 | **MS SQL**                            |               January 2023               |         |   0(9)    |     ---      |  [MS SQL]  |
 | - exam                                |       12.02.2023 <br/> неделя 9:00       |   ---   |           |     ---      |            |
-| **Web Applications <br/> with Flask** | February - April 2023 <br/> start(06.02) |         |   0(9)    |     ---      |    ---     |
+| **Web Applications <br/> with Flask** | February - April 2023 <br/> start(06.02) |         |   0(9)    |     ---      |  [Flask]   |
 | - exam                                |       23.04.2023<br/>неделя 10:00        |   ---   |           |     ---      |            |
 | **Algorithms <br/> with Python**      |             waiting for date             |   ---   |           |     ---      |            |
 | **Artificial Intelligence**           |                                          |   ---   |   0(36)   |     ---      |    ---     |
@@ -48,4 +48,5 @@ Additional courses planned.
 | **TOTAL**                             |                                          | **---** | **0(54)** |              |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
+[Flask]: https://github.com/VelinIliev/Web-Applications-with-Flask---SoftUni
 
