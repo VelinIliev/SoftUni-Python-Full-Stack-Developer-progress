@@ -7,19 +7,19 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **Programming Fundamentals** |    September - December 2022    | **6.00** |     12      | [certificate fundamentals] | [fundamentals] |
 | - mid exam                   |           23.10.2022            |   6.00   |             |                            |                |
 | - final exam                 |           04.12.2022            |   6.00   |             |                            |                |
-| **Python Advanced**          |      January - April 2023       | **---**  |    0(27)    |          not yet           |                |
-| - python Advanced            | 18.02.2023 <br/> събота - 14:00 |   ---    |             |                            |   [advanced]   |
-| - python OOP exam            | 08.04.2023 <br/> събота - 14:00 |   ---    |             |                            |     [OOP]      |
-| **JS Front-End**             |      January - April 2023       | **---**  |    0(27)    |          not yet           |                |
-| - HTML & CSS exam            | 19.02.2023 <br/> неделя - 9:00  |   ---    |             |                            |  [HTML & CSS]  |
-| - JS front-end exam          | 08.04.2023 <br/> събота - 14:00 |   ---    |             |                            |                |
-| **Python Web**               |        May - August 2023        | **---**  |    0(30)    |          not yet           |                |
-| - python web basics exam     |           --.--.2023            |   ---    |             |                            |  [web basic]   |
-| - python web framework exam  |           --.--.2023            |   ---    |             |                            |                |
-| **JS Advanced**              |        May - August 2023        | **---**  |    0(27)    |          not yet           |                |
-| - JS Advanced exam           |           --.--.2023            |   ---    |             |                            |                |
-| - JS Applications exam       |           --.--.2023            |   ---    |             |                            |                |
-| **TOTAL**                    |                                 | **6.00** | **15(126)** |                            |                |
+| **Python Advanced**          |      January - April 2023       | **---**  |   12(27)    |                            |                |
+| - python Advanced            | 18.02.2023 <br/> събота - 14:00 |   6.00   |     12      |   [certificate advanced]   |   [advanced]   |
+| - python OOP exam            | 08.04.2023 <br/> събота - 14:00 |   ---    |             |          not yet           |     [OOP]      |
+| **JS Front-End**             |      January - April 2023       | **---**  |    0(27)    |                            |                |
+| - HTML & CSS exam            | 19.02.2023 <br/> неделя - 9:00  |   ---    |             |          not yet           |  [HTML & CSS]  |
+| - JS front-end exam          | 08.04.2023 <br/> събота - 14:00 |   ---    |             |          not yet           |                |
+| **Python Web**               |        May - August 2023        | **---**  |    0(30)    |                            |                |
+| - python web basics exam     |           --.--.2023            |   ---    |             |          not yet           |  [web basic]   |
+| - python web framework exam  |           --.--.2023            |   ---    |             |          not yet           |                |
+| **JS Advanced**              |        May - August 2023        | **---**  |    0(27)    |                            |                |
+| - JS Advanced exam           |           --.--.2023            |   ---    |             |          not yet           |                |
+| - JS Applications exam       |           --.--.2023            |   ---    |             |          not yet           |                |
+| **TOTAL**                    |                                 | **6.00** | **27(126)** |                            |                |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni 
 [fundamentals]: https://github.com/VelinIliev/python-fundamentals-softuni
@@ -30,6 +30,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 
 [certificate basic]:https://softuni.bg/certificates/details/140540/cdc98c99
 [certificate fundamentals]: https://softuni.bg/certificates/details/148794/32086962
+[certificate advanced]: https://softuni.bg/certificates/details/159314/afb9a3d3
 
 <br>
 Additional courses planned.
