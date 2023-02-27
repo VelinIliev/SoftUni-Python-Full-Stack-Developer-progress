@@ -14,12 +14,12 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - HTML & CSS exam            |           19.02.2023            |   ---    |             |          not yet           |  [HTML & CSS]  |
 | - JS front-end exam          | 08.04.2023 <br/> събота - 14:00 |   ---    |             |          not yet           | [JS Font-End]  |
 | **Python Web**               |        May - August 2023        | **---**  |    0(30)    |                            |                |
-| - python web basics exam     |           --.--.2023            |   ---    |             |          not yet           |  [web basic]   |
-| - python web framework exam  |           --.--.2023            |   ---    |             |          not yet           |                |
-| **JS Advanced**              |        May - August 2023        | **---**  |    0(27)    |                            |                |
-| - JS Advanced exam           |           --.--.2023            |   ---    |             |          not yet           |                |
-| - JS Applications exam       |           --.--.2023            |   ---    |             |          not yet           |                |
-| **TOTAL**                    |                                 | **6.00** | **27(126)** |                            |                |
+| - python web basics exam     |        24.06.2023 (9:00)        |   ---    |             |          not yet           |  [web basic]   |
+| - python web framework exam  |    13.08.2023 (9:00 - 18:00)    |   ---    |             |          not yet           |                |
+| **JS Web**                   |        May - August 2023        | **---**  |    0(30)    |                            |                |
+| - JS back-end exam           |       18.06.2023 (14:00)        |   ---    |             |          not yet           |                |
+| - Angular exam               |    06.08.2023 (9:00 - 18:30)    |   ---    |             |          not yet           |                |
+| **TOTAL**                    |                                 | **6.00** | **27(129)** |                            |                |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni 
 [fundamentals]: https://github.com/VelinIliev/python-fundamentals-softuni
@@ -43,7 +43,7 @@ Additional courses planned.
 | - exam                                |      23.04.2023<br/>неделя 10:00       |   ---    |           |         ---         |            |
 | **Algorithms <br/> with Python**      |            waiting for date            |   ---    |           |         ---         |            |
 | **Artificial Intelligence**           |                                        |   ---    |   0(36)   |         ---         |    ---     |
-| - Math Concepts for <br/> Developers  | start 10.03.2023<br/>  exam 04.06.2023 |   ---    |           |         ---         |    ---     |
+| - Math Concepts for <br/> Developers  |     exam 04.06.2023 (9:00 - 18:00)     |   ---    |           |         ---         |    ---     |
 | - Data Science                        | start 23.06.2023 <br/> exam 20.08.2023 |   ---    |           |         ---         |    ---     |
 | - Machine Learning                    | start 08.09.2023<br/> exam 25.11.2023  |   ---    |           |         ---         |    ---     |
 | - Deep Learning                       | start 01.12.2023 <br/> exam 10.02.2024 |   ---    |           |         ---         |    ---     |
