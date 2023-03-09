@@ -41,6 +41,7 @@ Additional courses planned.
 | **MS SQL**                            |             January 2023              |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
 | **Web Applications <br/> with Flask** |         February - April 2023         |          |   0(9)    |         ---         |  [Flask]   |
 | - exam                                |      23.04.2023<br/>неделя 10:00      |   ---    |           |         ---         |            |
+| **Containers and Cloud**              | start 09.05.2023<br/> exam 18.06.2023 |   ---    |   0(12)   |         ---         |            |
 | **Algorithms <br/> with Python**      |           waiting for date            |   ---    |           |         ---         |            |
 | **Artificial Intelligence**           |                                       |   ---    |   0(36)   |         ---         |    ---     |
 | - Math Concepts for <br/> Developers  |  exam 04.06.2023 <br/>(9:00 - 18:00)  |   ---    |           |         ---         |    ---     |
