@@ -48,7 +48,7 @@ Additional courses planned.
 | - Data Science                        | start 23.06.2023 <br/>exam 20.08.2023 |   ---    |           |         ---         |    ---     |
 | - Machine Learning                    | start 08.09.2023<br/>exam 25.11.2023  |   ---    |           |         ---         |    ---     |
 | - Deep Learning                       | start 01.12.2023<br/>exam 10.02.2024  |   ---    |           |         ---         |    ---     |
-| **TOTAL**                             |                                       | **6.00** | **9(54)** |                     |            |
+| **TOTAL**                             |                                       | **6.00** | **9(66)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
 [Flask]: https://github.com/VelinIliev/Web-Applications-with-Flask---SoftUni
