@@ -5,13 +5,13 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 |:-----------------------------|:-------------------------------:|:--------:|:-----------:|:--------------------------:|:--------------:|
 | **Programming Basics**       |       July - August 2022        | **6.00** |      3      |    [certificate basic]     |    [basic]     |
 | **Programming Fundamentals** |    September - December 2022    | **6.00** |     12      | [certificate fundamentals] | [fundamentals] |
-| - mid exam                   |           23.10.2022            |   6.00   |             |                            |                |
-| - final exam                 |           04.12.2022            |   6.00   |             |                            |                |
+| - mid exam                   |                                 |   6.00   |             |                            |                |
+| - final exam                 |                                 |   6.00   |             |                            |                |
 | **Python Advanced**          |      January - April 2023       | **---**  |   12(27)    |                            |                |
-| - python Advanced            |           18.02.2023            |   6.00   |     12      |   [certificate advanced]   |   [advanced]   |
+| - python Advanced            |                                 |   6.00   |     12      |   [certificate advanced]   |   [advanced]   |
 | - python OOP exam            | 08.04.2023 <br/> събота - 14:00 |   ---    |             |          not yet           |     [OOP]      |
 | **JS Front-End**             |      January - April 2023       | **---**  |   12(27)    |                            |                |
-| - HTML & CSS exam            |           19.02.2023            |   6.00   |     12      |  [certificate HTML & CSS]  |  [HTML & CSS]  |
+| - HTML & CSS exam            |                                 |   6.00   |     12      |  [certificate HTML & CSS]  |  [HTML & CSS]  |
 | - JS front-end exam          | 08.04.2023 <br/> събота - 14:00 |   ---    |             |          not yet           | [JS Font-End]  |
 | **Python Web**               |        May - August 2023        | **---**  |    0(30)    |                            |                |
 | - python web basics exam     |        24.06.2023 (9:00)        |   ---    |             |          not yet           |  [web basic]   |
@@ -39,7 +39,7 @@ Additional courses planned.
 
 | Course                                |                Period                 |  Grade   |  Credits  |    Certificates     | GitHubRepo |
 |:--------------------------------------|:-------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
-| **MS SQL**                            |             January 2023              |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
+| **MS SQL**                            |        January - February 2023        |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
 | **Web Applications <br/> with Flask** |         February - April 2023         |          |   0(9)    |         ---         |  [Flask]   |
 | - exam                                |      23.04.2023<br/>неделя 10:00      |   ---    |           |         ---         |            |
 | **Containers and Cloud**              | start 09.05.2023<br/> exam 18.06.2023 |   ---    |   0(12)   |         ---         |            |
