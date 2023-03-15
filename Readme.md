@@ -10,8 +10,8 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **Python Advanced**          |      January - April 2023       | **---**  |   12(27)    |                            |                |
 | - python Advanced            |           18.02.2023            |   6.00   |     12      |   [certificate advanced]   |   [advanced]   |
 | - python OOP exam            | 08.04.2023 <br/> събота - 14:00 |   ---    |             |          not yet           |     [OOP]      |
-| **JS Front-End**             |      January - April 2023       | **---**  |    0(27)    |                            |                |
-| - HTML & CSS exam            |           19.02.2023            |   ---    |             |          not yet           |  [HTML & CSS]  |
+| **JS Front-End**             |      January - April 2023       | **---**  |   12(27)    |                            |                |
+| - HTML & CSS exam            |           19.02.2023            |   6.00   |     12      |  [certificate HTML & CSS]  |  [HTML & CSS]  |
 | - JS front-end exam          | 08.04.2023 <br/> събота - 14:00 |   ---    |             |          not yet           | [JS Font-End]  |
 | **Python Web**               |        May - August 2023        | **---**  |    0(30)    |                            |                |
 | - python web basics exam     |        24.06.2023 (9:00)        |   ---    |             |          not yet           |  [web basic]   |
@@ -19,7 +19,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **JS Web**                   |        May - August 2023        | **---**  |    0(30)    |                            |                |
 | - JS back-end exam           |       18.06.2023 (14:00)        |   ---    |             |          not yet           |                |
 | - Angular exam               |    06.08.2023 (9:00 - 18:30)    |   ---    |             |          not yet           |                |
-| **TOTAL**                    |                                 | **6.00** | **27(129)** |                            |                |
+| **TOTAL**                    |                                 | **6.00** | **39(129)** |                            |                |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni 
 [fundamentals]: https://github.com/VelinIliev/python-fundamentals-softuni
@@ -32,6 +32,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 [certificate basic]:https://softuni.bg/certificates/details/140540/cdc98c99
 [certificate fundamentals]: https://softuni.bg/certificates/details/148794/32086962
 [certificate advanced]: https://softuni.bg/certificates/details/159314/afb9a3d3
+[certificate HTML & CSS]: https://softuni.bg/certificates/details/162904/6154e496
 
 <br>
 Additional courses planned.
