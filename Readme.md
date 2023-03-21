@@ -16,9 +16,9 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **Python Web**               |        May - August 2023        | **---**  |    0(30)    |                            |                |
 | - python web basics exam     |        24.06.2023 (9:00)        |   ---    |             |          not yet           |  [web basic]   |
 | - python web framework exam  |    13.08.2023 (9:00 - 18:00)    |   ---    |             |          not yet           |                |
-| **JS Web**                   |        May - August 2023        | **---**  |    0(30)    |                            |                |
-| - JS back-end exam           |       18.06.2023 (14:00)        |   ---    |             |          not yet           |                |
-| - Angular exam               |    06.08.2023 (9:00 - 18:30)    |   ---    |             |          not yet           |                |
+| **JS Web**                   |    September - December 2023    | **---**  |    0(30)    |                            |                |
+| - JS back-end exam           |                                 |   ---    |             |          not yet           |                |
+| - Angular exam               |                                 |   ---    |             |          not yet           |                |
 | **TOTAL**                    |                                 | **6.00** | **39(129)** |                            |                |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni 
@@ -42,14 +42,12 @@ Additional courses planned.
 | **MS SQL**                            |        January - February 2023        |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
 | **Web Applications <br/> with Flask** |         February - April 2023         |          |   0(9)    |         ---         |  [Flask]   |
 | - exam                                |      23.04.2023<br/>неделя 10:00      |   ---    |           |         ---         |            |
-| **Containers and Cloud**              | start 09.05.2023<br/> exam 18.06.2023 |   ---    |   0(12)   |         ---         |            |
-| **Algorithms <br/> with Python**      |           waiting for date            |   ---    |           |         ---         |            |
 | **Artificial Intelligence**           |                                       |   ---    |   0(36)   |         ---         |    ---     |
 | - Math Concepts for <br/> Developers  |  exam 04.06.2023 <br/>(9:00 - 18:00)  |   ---    |           |         ---         |    ---     |
 | - Data Science                        | start 23.06.2023 <br/>exam 20.08.2023 |   ---    |           |         ---         |    ---     |
 | - Machine Learning                    | start 08.09.2023<br/>exam 25.11.2023  |   ---    |           |         ---         |    ---     |
 | - Deep Learning                       | start 01.12.2023<br/>exam 10.02.2024  |   ---    |           |         ---         |    ---     |
-| **TOTAL**                             |                                       | **6.00** | **9(66)** |                     |            |
+| **TOTAL**                             |                                       | **6.00** | **9(54)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
 [Flask]: https://github.com/VelinIliev/Web-Applications-with-Flask---SoftUni
