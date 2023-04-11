@@ -7,7 +7,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **Programming Fundamentals** |     September - December 2022     | **6.00** |     12      | [certificate fundamentals] | [fundamentals] |
 | - mid exam                   |                                   |   6.00   |             |                            |                |
 | - final exam                 |                                   |   6.00   |             |                            |                |
-| **Python Advanced**          |       January - April 2023        | **---**  |     27      |                            |                |
+| **Python Advanced**          |       January - April 2023        | **6.00** |     27      |                            |                |
 | - python Advanced            |                                   |   6.00   |             |   [certificate advanced]   |   [advanced]   |
 | - python OOP exam            |                                   |   6.00   |             |     [certificate OOP]      |     [OOP]      |
 | **JS Front-End**             |       January - April 2023        | **---**  |   12(27)    |                            |                |
