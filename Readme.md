@@ -10,7 +10,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **Python Advanced**          |       January - April 2023        | **6.00** |     27      |                            |                |
 | - python Advanced            |                                   |   6.00   |             |   [certificate advanced]   |   [advanced]   |
 | - python OOP exam            |                                   |   6.00   |             |     [certificate OOP]      |     [OOP]      |
-| **JS Front-End**             |       January - April 2023        | **6.00** |      2      |                            |                |
+| **JS Front-End**             |       January - April 2023        | **6.00** |     27      |                            |                |
 | - HTML & CSS exam            |                                   |   6.00   |             |  [certificate HTML & CSS]  |  [HTML & CSS]  |
 | - JS front-end exam          | 20.04.2023 <br/> четвъртък - 9:00 |   6.00   |             | [certificate JS FRONT-END] | [JS Font-End]  |
 | **Python Web**               |         May - August 2023         | **---**  |    0(30)    |                            |                |
