@@ -39,11 +39,12 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 <br>
 Additional courses planned.
 
-| Course                                |                Period                 |  Grade   |  Credits  |    Certificates     | GitHubRepo |
-|:--------------------------------------|:-------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
-| **MS SQL**                            |        January - February 2023        |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
-| **Web Applications <br/> with Flask** |         February - April 2023         |          |   0(9)    |         ---         |  [Flask]   |
-| **TOTAL**                             |                                       | **6.00** | **9(18)** |                     |            |
+| Course                                |                  Period                   |  Grade   |  Credits  |    Certificates     | GitHubRepo |
+|:--------------------------------------|:-----------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
+| **MS SQL**                            |          January - February 2023          |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
+| **Web Applications <br/> with Flask** |           February - April 2023           |          |   0(9)    |         ---         |  [Flask]   |
+| **Algorithms with Python**            | July - August 2023 <br/> 06.08.2023(9:00) |          |   0(9)    |         ---         |            |
+| **TOTAL**                             |                                           | **6.00** | **9(27)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
 [Flask]: https://github.com/VelinIliev/Web-Applications-with-Flask---SoftUni
