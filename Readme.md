@@ -18,7 +18,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - python web framework       |      13.08.2023 (9:00)      |   ---    |             |          not yet           |                |
 | **Python DB**                |  September - December 2023  | **---**  |    0(24)    |                            |                |
 | - PostgreSQL exam            |      14.10.2023 (9:00)      |   ---    |             |          not yet           |                |
-| - Python ORM                 |      26.11.2023 (9:00)      |   ---    |             |          not yet           |                |
+| - Python ORM exam            |      26.11.2023 (9:00)      |   ---    |             |          not yet           |                |
 | **JS Web**                   |  September - December 2023  | **---**  |    0(30)    |                            |                |
 | - JS back-end exam           |     21.10.2023 (14:00)      |   ---    |             |          not yet           |                |
 | - ReactJS exam               |      09.12.2023 (9:00)      |   ---    |             |          not yet           |                |
