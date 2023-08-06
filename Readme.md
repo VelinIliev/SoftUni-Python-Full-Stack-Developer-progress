@@ -1,4 +1,3 @@
-
 Here I keep track of my learning progress in SoftUni - Python Full-Stack Developer.
 
 | Course                       |          Period           |  Grade   |   Credits   |          Certificates           |   GitHubRepo    |
@@ -24,33 +23,48 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - ReactJS exam               |     09.12.2023 (9:00)     |   ---    |             |             not yet             |                 |
 | **TOTAL**                    |                           | **6.00** | **84(153)** |                                 |                 |
 
-[basic]:https://github.com/VelinIliev/python-basic-softuni 
+[basic]:https://github.com/VelinIliev/python-basic-softuni
+
 [fundamentals]: https://github.com/VelinIliev/python-fundamentals-softuni
+
 [advanced]: https://github.com/VelinIliev/python-advanced-softuni
+
 [OOP]: https://github.com/VelinIliev/python_oop_softuni
+
 [HTML & CSS]:https://github.com/VelinIliev/html-and-css-softuni
+
 [web basic]: https://github.com/VelinIliev/python_web_basics
+
 [JS Font-End]: https://github.com/VelinIliev/js-front-end-softuni
+
 [web framework]: https://github.com/VelinIliev/python_web_framework
 
 [certificate basic]:https://softuni.bg/certificates/details/140540/cdc98c99
+
 [certificate fundamentals]: https://softuni.bg/certificates/details/148794/32086962
+
 [certificate advanced]: https://softuni.bg/certificates/details/159314/afb9a3d3
+
 [certificate HTML & CSS]: https://softuni.bg/certificates/details/162904/6154e496
+
 [certificate OOP]: https://softuni.bg/certificates/details/168162/acb3f086
+
 [certificate JS FRONT-END]: https://softuni.bg/certificates/details/170672/ad7e8ffb
+
 [certificate Python Web Basic]: https://softuni.bg/certificates/details/177840/0f00f69b
 
 <br>
 Additional courses planned.
 
-| Course                                |                  Period                   |  Grade   |  Credits  |    Certificates     | GitHubRepo |
-|:--------------------------------------|:-----------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
-| **MS SQL**                            |          January - February 2023          |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
-| **Web Applications <br/> with Flask** |           February - April 2023           |          |   0(9)    |         ---         |  [Flask]   |
-| **TOTAL**                             |                                           | **6.00** | **9(18)** |                     |            |
+| Course                                |          Period          |  Grade   |  Credits  |    Certificates     | GitHubRepo |
+|:--------------------------------------|:------------------------:|:--------:|:---------:|:-------------------:|:----------:|
+| **MS SQL**                            | January - February 2023  |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
+| **Web Applications <br/> with Flask** |  February - April 2023   |          |   0(9)    |         ---         |  [Flask]   |
+| **VueJS**                             | November - December 2023 |          |   0(12)   |         ---         |            |
+| **TOTAL**                             |                          | **6.00** | **9(30)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
+
 [Flask]: https://github.com/VelinIliev/Web-Applications-with-Flask---SoftUni
 
 [certificate MSSQL]: https://softuni.bg/certificates/details/157955/30bb58a2
