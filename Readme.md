@@ -14,7 +14,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - JS front-end               |                           |   6.00   |             |   [certificate JS FRONT-END]   |  [JS Font-End]  |
 | **Python Web**               |     May - August 2023     | **6.00** |     30      |                                |                 |
 | - python web basics          |                           |   6.00   |             | [certificate Python Web Basic] |   [web basic]   |
-| - python web framework       |                           |   6.00   |             |  [certificate Web Framework]   | [web framework] |
+| - python web framework       |                           |   6.00   |             |  [certificate Web Framework]   | [final project] |
 | **Python DB**                | September - December 2023 | **---**  |    0(24)    |                                |                 |
 | - PostgreSQL exam            |     14.10.2023 (9:00)     |   ---    |             |            not yet             |                 |
 | - Python ORM exam            |     26.11.2023 (9:00)     |   ---    |             |            not yet             |                 |
@@ -51,6 +51,8 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 [certificate Python Web Basic]: https://softuni.bg/certificates/details/177840/0f00f69b
 
 [certificate Web Framework]:https://softuni.bg/certificates/details/182369/e4bb5d6e
+
+[final project]:https://github.com/VelinIliev/CTRS-project
 
 <br>
 Additional courses planned.
