@@ -1,27 +1,24 @@
 Here I keep track of my learning progress in SoftUni - Python Full-Stack Developer.
 
-| Course                       |          Period           |  Grade   |   Credits   |          Certificates           |   GitHubRepo    |
-|:-----------------------------|:-------------------------:|:--------:|:-----------:|:-------------------------------:|:---------------:|
-| **Programming Basics**       |    July - August 2022     | **6.00** |      3      |       [certificate basic]       |     [basic]     |
-| **Programming Fundamentals** | September - December 2022 | **6.00** |     12      |   [certificate fundamentals]    | [fundamentals]  |
-| - mid exam                   |                           |   6.00   |             |                                 |                 |
-| - final exam                 |                           |   6.00   |             |                                 |                 |
-| **Python Advanced**          |   January - April 2023    | **6.00** |     27      |                                 |                 |
-| - python Advanced            |                           |   6.00   |             |     [certificate advanced]      |   [advanced]    |
-| - python OOP                 |                           |   6.00   |             |        [certificate OOP]        |      [OOP]      |
-| **JS Front-End**             |   January - April 2023    | **6.00** |     27      |                                 |                 |
-| - HTML & CSS                 |                           |   6.00   |             |    [certificate HTML & CSS]     |  [HTML & CSS]   |
-| - JS front-end               |                           |   6.00   |             |   [certificate JS FRONT-END]    |  [JS Font-End]  |
-| **Python Web**               |     May - August 2023     | **6.00** |   15(30)    |                                 |                 |
-| - python web basics          |                           |   6.00   |             | [certificate Python Web Basic]  |   [web basic]   |
-| - python web framework       |     13.08.2023 (9:00)     |   ---    |             |             not yet             | [web framework] |
-| **Python DB**                | September - December 2023 | **---**  |    0(24)    |                                 |                 |
-| - PostgreSQL exam            |     14.10.2023 (9:00)     |   ---    |             |             not yet             |                 |
-| - Python ORM exam            |     26.11.2023 (9:00)     |   ---    |             |             not yet             |                 |
-| **JS Web**                   | September - December 2023 | **---**  |    0(30)    |                                 |                 |
-| - JS back-end exam           |    21.10.2023 (14:00)     |   ---    |             |             not yet             |                 |
-| - ReactJS exam               |     09.12.2023 (9:00)     |   ---    |             |             not yet             |                 |
-| **TOTAL**                    |                           | **6.00** | **84(153)** |                                 |                 |
+| Course                       |          Period           |  Grade   |   Credits   |          Certificates          |   GitHubRepo    |
+|:-----------------------------|:-------------------------:|:--------:|:-----------:|:------------------------------:|:---------------:|
+| **Programming Basics**       |    July - August 2022     | **6.00** |      3      |      [certificate basic]       |     [basic]     |
+| **Programming Fundamentals** | September - December 2022 | **6.00** |     12      |   [certificate fundamentals]   | [fundamentals]  |
+| - mid exam                   |                           |   6.00   |             |                                |                 |
+| - final exam                 |                           |   6.00   |             |                                |                 |
+| **Python Advanced**          |   January - April 2023    | **6.00** |     27      |                                |                 |
+| - python Advanced            |                           |   6.00   |             |     [certificate advanced]     |   [advanced]    |
+| - python OOP                 |                           |   6.00   |             |       [certificate OOP]        |      [OOP]      |
+| **JS Front-End**             |   January - April 2023    | **6.00** |     27      |                                |                 |
+| - HTML & CSS                 |                           |   6.00   |             |    [certificate HTML & CSS]    |  [HTML & CSS]   |
+| - JS front-end               |                           |   6.00   |             |   [certificate JS FRONT-END]   |  [JS Font-End]  |
+| **Python Web**               |     May - August 2023     | **6.00** |     30      |                                |                 |
+| - python web basics          |                           |   6.00   |             | [certificate Python Web Basic] |   [web basic]   |
+| - python web framework       |                           |   6.00   |             |  [certificate Web Framework]   | [web framework] |
+| **Python DB**                | September - December 2023 | **---**  |    0(24)    |                                |                 |
+| - PostgreSQL exam            |     14.10.2023 (9:00)     |   ---    |             |            not yet             |                 |
+| - Python ORM exam            |     26.11.2023 (9:00)     |   ---    |             |            not yet             |                 |
+| **TOTAL**                    |                           | **6.00** | **99(123)** |                                |                 |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni
 
@@ -53,15 +50,18 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 
 [certificate Python Web Basic]: https://softuni.bg/certificates/details/177840/0f00f69b
 
+[certificate Web Framework]:https://softuni.bg/certificates/details/182369/e4bb5d6e
+
 <br>
 Additional courses planned.
 
-| Course                                |                      Period                       |  Grade   |  Credits  |    Certificates     | GitHubRepo |
-|:--------------------------------------|:-------------------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
-| **MS SQL**                            |              January - February 2023              |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
-| **Web Applications <br/> with Flask** |               February - April 2023               |          |   0(9)    |         ---         |  [Flask]   |
-| **VueJS**                             | November - December 2023 <br>  16.12.2023 (10:00) |          |   0(12)   |         ---         |            |
-| **TOTAL**                             |                                                   | **6.00** | **9(30)** |                     |            |
+| Course      |                              Period                              |  Grade   |  Credits  |    Certificates     | GitHubRepo |
+|:------------|:----------------------------------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
+| **MS SQL**  |                     January - February 2023                      |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
+| **Flask**   |                      February - April 2023                       |          |   0(9)    |         ---         |  [Flask]   |
+| **ReactJS** |         September - December 2023<br> 09.12.2023 (9:00)          | **---**  |   0(15)   |                     |            |
+| **VueJS**   |        November - December 2023 <br>  16.12.2023 (10:00)         |          |   0(12)   |         ---         |            |
+| **TOTAL**   |                                                                  | **6.00** | **9(45)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
 
