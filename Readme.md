@@ -61,14 +61,16 @@ Additional courses planned.
 |:------------|:----------------------------------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
 | **MS SQL**  |                     January - February 2023                      |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
 | **Flask**   |                      February - April 2023                       |          |   0(9)    |         ---         |  [Flask]   |
-| **ReactJS** |         September - December 2023<br> 09.12.2023 (9:00)          | **---**  |   0(15)   |                     |            |
+| **ReactJS** |         September - December 2023<br> 09.12.2023 (9:00)          | **---**  |   0(15)   |                     |  [React]   |
 | **VueJS**   |        November - December 2023 <br>  16.12.2023 (10:00)         |          |   0(12)   |         ---         |            |
 | **TOTAL**   |                                                                  | **6.00** | **9(45)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
 
+[certificate MSSQL]: https://softuni.bg/certificates/details/157955/30bb58a2
+
 [Flask]: https://github.com/VelinIliev/Web-Applications-with-Flask---SoftUni
 
-[certificate MSSQL]: https://softuni.bg/certificates/details/157955/30bb58a2
+[React]: https://github.com/VelinIliev/ReactJS
 
 
