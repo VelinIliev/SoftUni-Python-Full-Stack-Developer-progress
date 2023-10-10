@@ -16,7 +16,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - python web basics          |                           |   6.00   |             | [certificate Python Web Basic] |   [web basic]   |
 | - python web framework       |                           |   6.00   |             |  [certificate Web Framework]   | [final project] |
 | **Python DB**                | September - December 2023 | **---**  |    0(24)    |                                |                 |
-| - PostgreSQL exam            |     14.10.2023 (9:00)     |   ---    |             |            not yet             |                 |
+| - PostgreSQL exam            |     14.10.2023 (9:00)     |   ---    |             |            not yet             |  [PostgreSQL]   |
 | - Python ORM exam            |     26.11.2023 (9:00)     |   ---    |             |            not yet             |                 |
 | **TOTAL**                    |                           | **6.00** | **99(123)** |                                |                 |
 
@@ -53,6 +53,8 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 [certificate Web Framework]:https://softuni.bg/certificates/details/182369/e4bb5d6e
 
 [final project]:https://github.com/VelinIliev/CTRS-project
+
+[PostgreSQL]: https://github.com/VelinIliev/PostgreSQL
 
 <br>
 Additional courses planned.
