@@ -69,7 +69,7 @@ Additional courses planned.
 | **MS SQL**  |                     January - February 2023                      |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
 | **Flask**   |                      February - April 2023                       | **---**  |   0(9)    |         ---         |  [Flask]   |
 | **ReactJS** |         September - December 2023<br> 09.12.2023 (9:00)          | **---**  |   0(15)   |         ---         |  [React]   |
-| **TOTAL**   |                                                                  | **6.00** | **9(45)** |                     |            |
+| **TOTAL**   |                                                                  | **6.00** | **9(33)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
 
