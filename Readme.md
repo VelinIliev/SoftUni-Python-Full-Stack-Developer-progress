@@ -16,7 +16,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | - python web basics          |                           |   6.00   |              | [certificate Python Web Basic] |  [web basic]   |
 | - python web framework       |                           |   6.00   |              |  [certificate Web Framework]   |[final project] |
 | **Python DB**                | September - December 2023 | **---**  |    9(24)     |                                |                |
-| - PostgreSQL exam            |     14.10.2023 (9:00)     |   6.00   |              |    [certificate PostgreSQL]    |  [PostgreSQL]  |
+| - PostgreSQL exam            |                           |   6.00   |              |    [certificate PostgreSQL]    |  [PostgreSQL]  |
 | - Python ORM exam            |     26.11.2023 (9:00)     |   ---    |              |            not yet             |  [PythonORM]   |
 | **TOTAL**                    |                           | **6.00** | **108(123)** |                                |                |
 
@@ -69,7 +69,6 @@ Additional courses planned.
 | **MS SQL**  |                     January - February 2023                      |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
 | **Flask**   |                      February - April 2023                       | **---**  |   0(9)    |         ---         |  [Flask]   |
 | **ReactJS** |         September - December 2023<br> 09.12.2023 (9:00)          | **---**  |   0(15)   |         ---         |  [React]   |
-| **VueJS**   |        November - December 2023 <br>  16.12.2023 (10:00)         | **---**  |   0(12)   |         ---         |            |
 | **TOTAL**   |                                                                  | **6.00** | **9(45)** |                     |            |
 
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
