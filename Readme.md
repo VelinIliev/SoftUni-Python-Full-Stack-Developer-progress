@@ -18,7 +18,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 | **Python DB**                        | September - December 2023 | **6.00** |      24      |                                |                 |
 | - PostgreSQL                         |                           |   6.00   |              |    [certificate PostgreSQL]    |  [PostgreSQL]   |
 | - Python ORM                         |                           |   6.00   |              |    [certificate PythonORM]     |   [PythonORM]   |
-| **DevOps for Developers**            |   January - April 2024    | **---**  |      24      |                                |                 |
+| **DevOps for Developers**            |   January - April 2024    | **---**  |    0(24)     |                                |                 |
 | - Containers and Cloud               |     18.02.2024(9:00)      |   ---    |              |                                |                 |
 | - Software Engineering and DevOps    |     13.04.2024(14:00)     |   ---    |              |                                |                 |
 | **TOTAL**                            |                           | **6.00** | **123(147)** |                                |                 |
