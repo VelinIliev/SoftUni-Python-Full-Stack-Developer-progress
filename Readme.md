@@ -85,7 +85,7 @@ Additional courses planned.
 [React]: https://github.com/VelinIliev/ReactJS
 
 
-### Intern & Team Lead Academy
+# Intern & Team Lead Academy
 Nov 2023 - in progress
 
 As an intern in SoftUni's 'Intern & Team Lead Academy,' I am actively
