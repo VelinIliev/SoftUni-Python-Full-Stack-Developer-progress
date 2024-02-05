@@ -91,8 +91,10 @@
 <br>
 
 # Intern & Team Lead Academy
-<br>
+
 Nov 2023 - in progress
+
+<br>
 
 As an intern in SoftUni's 'Intern & Team Lead Academy,' I am actively
 involved in the 'Kitchen Helper' project. I am contributing to the development
