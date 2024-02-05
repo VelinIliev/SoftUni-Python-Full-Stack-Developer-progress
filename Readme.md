@@ -85,3 +85,18 @@ Additional courses planned.
 [React]: https://github.com/VelinIliev/ReactJS
 
 
+### Intern & Team Lead Academy
+Nov 2023 - in progress
+
+As an intern in SoftUni's 'Intern & Team Lead Academy,' I am actively
+involved in the 'Kitchen Helper' project. I am contributing to the development
+of an advanced recipe search system and front-end. Our team is
+dedicated to enhancing filters for preparation time, complexity, nutrition,
+etc. We leverage technologies such as FastAPI, PostgreSQL, Alembic,
+SQLAlchemy, Uvicorn, Nginx, VueJS, Pinia, Axios, and Docker to
+ensure a cutting-edge and efficient solution.
+
+back-end: https://github.com/eognianov/kitchen-helper-backend <br>
+front-end: https://github.com/eognianov/kitchen-helper-frontend <br>
+live: https://kitchenhelper.eognyanov.com/
+
