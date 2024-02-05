@@ -1,4 +1,5 @@
 # Python Full-Stack Developer
+<br>
 
 | Course                               |          Period           |  Grade   |   Credits    |          Certificates          |   GitHubRepo    |
 |:-------------------------------------|:-------------------------:|:--------:|:------------:|:------------------------------:|:---------------:|
@@ -66,6 +67,7 @@
 [certificate PythonORM]: https://softuni.bg/certificates/details/193809/7a314e6e
 
 # Additional courses
+<br>
 
 | Course      |                              Period                              |  Grade   |  Credits  |    Certificates     | GitHubRepo |
 |:------------|:----------------------------------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
@@ -84,6 +86,7 @@
 
 
 # Intern & Team Lead Academy
+<br>
 Nov 2023 - in progress
 
 As an intern in SoftUni's 'Intern & Team Lead Academy,' I am actively
