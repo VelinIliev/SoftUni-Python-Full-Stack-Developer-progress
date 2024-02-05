@@ -1,4 +1,4 @@
-Here I keep track of my learning progress in SoftUni - Python Full-Stack Developer.
+# Python Full-Stack Developer
 
 | Course                               |          Period           |  Grade   |   Credits    |          Certificates          |   GitHubRepo    |
 |:-------------------------------------|:-------------------------:|:--------:|:------------:|:------------------------------:|:---------------:|
@@ -65,9 +65,7 @@ Here I keep track of my learning progress in SoftUni - Python Full-Stack Develop
 
 [certificate PythonORM]: https://softuni.bg/certificates/details/193809/7a314e6e
 
-
-<br>
-Additional courses planned.
+# Additional courses
 
 | Course      |                              Period                              |  Grade   |  Credits  |    Certificates     | GitHubRepo |
 |:------------|:----------------------------------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
