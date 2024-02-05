@@ -1,4 +1,5 @@
 # Python Full-Stack Developer
+
 <br>
 
 | Course                               |          Period           |  Grade   |   Credits    |          Certificates          |   GitHubRepo    |
@@ -66,7 +67,10 @@
 
 [certificate PythonORM]: https://softuni.bg/certificates/details/193809/7a314e6e
 
+<br>
+
 # Additional courses
+
 <br>
 
 | Course      |                              Period                              |  Grade   |  Credits  |    Certificates     | GitHubRepo |
@@ -84,6 +88,7 @@
 
 [React]: https://github.com/VelinIliev/ReactJS
 
+<br>
 
 # Intern & Team Lead Academy
 <br>
