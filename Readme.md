@@ -92,8 +92,10 @@
 
 # Intern & Team Lead Academy
 
-Nov 2023 - in progress
+Nov 2023 - in progress <br>
+[certificate]
 
+[certificate]: https://github.com/VelinIliev/SoftUni-Python-Full-Stack-Developer-progress/tree/main/certificates/Certificate-Student-Intern-Velin-Iliev.pdf
 <br>
 
 As an intern in SoftUni's 'Intern & Team Lead Academy,' I am actively
