@@ -94,8 +94,6 @@
 
 Nov 2023 - in progress <br>
 [certificate]
-
-[certificate]: https://github.com/VelinIliev/SoftUni-Python-Full-Stack-Developer-progress/tree/main/certificates/Certificate-Student-Intern-Velin-Iliev.pdf
 <br>
 
 As an intern in SoftUni's 'Intern & Team Lead Academy,' I am actively
@@ -109,4 +107,6 @@ ensure a cutting-edge and efficient solution.
 back-end: https://github.com/eognianov/kitchen-helper-backend <br>
 front-end: https://github.com/eognianov/kitchen-helper-frontend <br>
 live: https://kitchenhelper.eognyanov.com/
+
+[certificate]: https://github.com/VelinIliev/SoftUni-Python-Full-Stack-Developer-progress/tree/main/certificates/Certificate-Student-Intern-Velin-Iliev.pdf
 
