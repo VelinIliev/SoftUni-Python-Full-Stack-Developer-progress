@@ -2,28 +2,29 @@
 
 <br>
 
-| Course                               |          Period           |  Grade   |   Credits    |          Certificates          |   GitHubRepo    |
-|:-------------------------------------|:-------------------------:|:--------:|:------------:|:------------------------------:|:---------------:|
-| **Programming Basics**               |    July - August 2022     | **6.00** |      3       |      [certificate basic]       |     [basic]     |
-| **Programming Fundamentals**         | September - December 2022 | **6.00** |      12      |   [certificate fundamentals]   | [fundamentals]  |
-| - mid exam                           |                           |   6.00   |              |                                |                 |
-| - final exam                         |                           |   6.00   |              |                                |                 |
-| **Python Advanced**                  |   January - April 2023    | **6.00** |      27      |                                |                 |
-| - python Advanced                    |                           |   6.00   |              |     [certificate advanced]     |   [advanced]    |
-| - python OOP                         |                           |   6.00   |              |       [certificate OOP]        |      [OOP]      |
-| **JS Front-End**                     |   January - April 2023    | **6.00** |      27      |                                |                 |
-| - HTML & CSS                         |                           |   6.00   |              |    [certificate HTML & CSS]    |  [HTML & CSS]   |
-| - JS front-end                       |                           |   6.00   |              |   [certificate JS FRONT-END]   |  [JS Font-End]  |
-| **Python Web**                       |     May - August 2023     | **6.00** |      30      |                                |                 |
-| - python web basics                  |                           |   6.00   |              | [certificate Python Web Basic] |   [web basic]   |
-| - python web framework               |                           |   6.00   |              |  [certificate Web Framework]   | [final project] |
-| **Python DB**                        | September - December 2023 | **6.00** |      24      |                                |                 |
-| - PostgreSQL                         |                           |   6.00   |              |    [certificate PostgreSQL]    |  [PostgreSQL]   |
-| - Python ORM                         |                           |   6.00   |              |    [certificate PythonORM]     |   [PythonORM]   |
-| **DevOps for Developers**            |   January - April 2024    | **---**  |    0(24)     |                                |                 |
-| - Containers and Cloud               |     18.02.2024(9:00)      |   ---    |              |                                |                 |
-| - Software Engineering and DevOps    |     13.04.2024(14:00)     |   ---    |              |                                |                 |
-| **TOTAL**                            |                           | **6.00** | **123(147)** |                                |                 |
+| Course                            |          Period           |  Grade   |   Credits    |          Certificates          |   GitHubRepo    |
+|:----------------------------------|:-------------------------:|:--------:|:------------:|:------------------------------:|:---------------:|
+| **Programming Basics**            |    July - August 2022     | **6.00** |      3       |      [certificate basic]       |     [basic]     |
+| **Programming Fundamentals**      | September - December 2022 | **6.00** |      12      |   [certificate fundamentals]   | [fundamentals]  |
+| - mid exam                        |                           |   6.00   |              |                                |                 |
+| - final exam                      |                           |   6.00   |              |                                |                 |
+| **Python Advanced**               |   January - April 2023    | **6.00** |      27      |                                |                 |
+| - python Advanced                 |                           |   6.00   |              |     [certificate advanced]     |   [advanced]    |
+| - python OOP                      |                           |   6.00   |              |       [certificate OOP]        |      [OOP]      |
+| **JS Front-End**                  |   January - April 2023    | **6.00** |      27      |                                |                 |
+| - HTML & CSS                      |                           |   6.00   |              |    [certificate HTML & CSS]    |  [HTML & CSS]   |
+| - JS front-end                    |                           |   6.00   |              |   [certificate JS FRONT-END]   |  [JS Font-End]  |
+| **MS SQL**                        |  January - February 2023  |   6.00   |      9       |      [certificate MSSQL]       |    [MS SQL]     |
+| **Python Web**                    |     May - August 2023     | **6.00** |      30      |                                |                 |
+| - python web basics               |                           |   6.00   |              | [certificate Python Web Basic] |   [web basic]   |
+| - python web framework            |                           |   6.00   |              |  [certificate Web Framework]   | [final project] |
+| **Python DB**                     | September - December 2023 | **6.00** |      24      |                                |                 |
+| - PostgreSQL                      |                           |   6.00   |              |    [certificate PostgreSQL]    |  [PostgreSQL]   |
+| - Python ORM                      |                           |   6.00   |              |    [certificate PythonORM]     |   [PythonORM]   |
+| **DevOps for Developers**         |   January - April 2024    | **---**  |    0(24)     |                                |                 |
+| - Containers and Cloud            |     18.02.2024(9:00)      |   ---    |              |                                |                 |
+| - Software Engineering and DevOps |     13.04.2024(14:00)     |   ---    |              |                                |                 |
+| **TOTAL**                         |                           | **6.00** | **132(147)** |                                |                 |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni
 
@@ -67,19 +68,6 @@
 
 [certificate PythonORM]: https://softuni.bg/certificates/details/193809/7a314e6e
 
-<br>
-
-# Additional courses
-
-<br>
-
-| Course      |                              Period                              |  Grade   |  Credits  |    Certificates     | GitHubRepo |
-|:------------|:----------------------------------------------------------------:|:--------:|:---------:|:-------------------:|:----------:|
-| **MS SQL**  |                     January - February 2023                      |   6.00   |     9     | [certificate MSSQL] |  [MS SQL]  |
-| **Flask**   |                      February - April 2023                       | **---**  |   0(9)    |         ---         |  [Flask]   |
-| **ReactJS** |         September - December 2023<br> 09.12.2023 (9:00)          | **---**  |   0(15)   |         ---         |  [React]   |
-| **TOTAL**   |                                                                  | **6.00** | **9(33)** |                     |            |
-
 [MS SQL]: https://github.com/VelinIliev/mssql-softuni
 
 [certificate MSSQL]: https://softuni.bg/certificates/details/157955/30bb58a2
@@ -92,8 +80,7 @@
 
 # Intern & Team Lead Academy
 
-Nov 2023 - in progress <br>
-[certificate]
+Nov 2023 - Feb 2024 - [certificate]
 <br>
 
 As an intern in SoftUni's 'Intern & Team Lead Academy,' I am actively
