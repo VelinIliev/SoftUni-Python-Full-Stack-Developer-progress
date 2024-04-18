@@ -21,7 +21,7 @@
 | **Python DB**                       | September - December 2023 | **6.00** |   24    |                                |                 |
 | - PostgreSQL                        |                           |   6.00   |         |    [certificate PostgreSQL]    |  [PostgreSQL]   |
 | - Python ORM                        |                           |   6.00   |         |    [certificate PythonORM]     |   [PythonORM]   |
-| **Software Engineering and DevOps** |       March - April       |   6.00   |   12    |    [certificate SE&DevOps]     |                 |
+| **Software Engineering and DevOps** |    March - April 2024     |   6.00   |   12    |    [certificate SE&DevOps]     |                 |
 | **TOTAL**                           |                           | **6.00** | **144** |                                |                 |
 
 [basic]:https://github.com/VelinIliev/python-basic-softuni
